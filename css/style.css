@@ -5,3 +5,50 @@ body{
     background-color: #f4f4f4;
     font-family: "Montserrat", sans-serif;
 }
+.top-bar{
+    background-color: #008000;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 0;
+}
+.col-4{
+    width: 22%;
+    margin: 1%;
+    display: inline;
+}
+section{
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.top-bar .col-4{
+    padding: 10px;
+}
+.top-bar i{
+    padding: 0 10px;
+    font-size: 20px;
+}
+.menu img {
+    float: left;
+}
+.menu nav{
+    float: right;
+}
+.menu{
+    background-color: #fff;
+    display: ruby-text;
+    padding: 10px;
+}
+.menu nav ul li{
+    display: inline-block;
+    padding: 25px 35px;
+}
+.menu nav li a{
+    text-decoration: none;
+    color: #000;
+}
+.btn {
+    background: #008000;
+    color: #fff !important;
+    padding: 10px 20px;
+}
